@@ -4,8 +4,8 @@
 
 <p align='center'>aplikasi web yang dibuat dengan mengikuti modul materi Web Programming III Universitas Bina Sarana Informatika, dengan menggunakan framework Codeigniter 3.</p>
 
-<p align='center'>Projek mandiri ini dibuat untuk memenuhi tugas Web Programming III.</p>
+<p align='center'>Projek mandiri ini dibuat untuk memenuhi tugas akhir Web Programming III.</p>
 
 <br>
 <br>
-<h2 align='center'>Terima Kasih</h2>
+<h2 align='center'>TERIMA KASIH </h2>
